@@ -1,6 +1,3 @@
-// Nicholas, 11/01/19
-// Class: COP2000-20201-1V-M-002, Fall 2019
-// Purpose: to create a program that determines the racer's lowest score and outputs the winner alongside being able to calculate the average of all 3 racers
 #include <iostream> 
 #include <iomanip>
 #include <string>
