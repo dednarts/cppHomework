@@ -1,6 +1,3 @@
-// Nicholas Pellitteri, 12/03/19
-// Class: COP2000-20201-1V-M-002, Fall 2019
-// Purpose: to create a program that checks the given inventory of the given toys
 #include <iostream> 
 #include <iomanip>
 #include <string>
