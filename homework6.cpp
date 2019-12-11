@@ -1,6 +1,3 @@
-// Nicholas Pellitteri, 11/08/19
-// Class: COP2000-20201-1V-M-002, Fall 2019
-// Purpose: to create a program that prints out multiplication tables and tests students on common math
 #include <iostream> 
 #include <iomanip>
 #include <string>
